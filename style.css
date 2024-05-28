@@ -1,0 +1,56 @@
+h1 {
+  display: flex;  
+  font-family:sans-serif;
+    font-size: 80px;
+    justify-content: center;
+    
+    
+}
+.wrapper {
+     width: 40%;
+    margin: auto;
+    align-items: center;
+  }
+
+.wrapper-but {
+  width: 450px;
+  margin: 0 auto;
+
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+  
+}
+
+p{
+   display: flex;
+   justify-content: end;
+   font-family: sans-serif;
+   color: black;
+   font-size: small;
+ } 
+
+
+.button {
+    background-color: whitesmoke;
+  border: none;
+  color: black;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {width: 200px;}
+
+
+
